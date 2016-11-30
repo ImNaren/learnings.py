@@ -15,8 +15,6 @@ def isstring_unique(str1):
    			y[x[i]] = 1
    	return True
 
-
-str2 = isstring_unique("Naa")
-
-print str2
+x = isstring_unique("shawshank redemption")
+print x
 
