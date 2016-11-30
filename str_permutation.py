@@ -13,6 +13,6 @@ def ispermutation(str1, str2):
 	return True
 
 
-z = ispermutation('Naran', 'anbrN')
+z = ispermutation('John', 'nohJ')
 
 print z
