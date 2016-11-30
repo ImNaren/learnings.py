@@ -14,6 +14,6 @@ def string_reversal(str1):
 	b = ''.join(a)
 	return b
 
-str3 = string_reversal("naren")
+str3 = string_reversal("string123")
 
 print str3
