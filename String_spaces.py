@@ -1,4 +1,5 @@
 
+""" replace the space in the string with %20"""
 
 def string_spaces_replace(str1):
 	strlist = []
